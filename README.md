@@ -3,6 +3,9 @@
 * 后端：**`node.js` `express` `mongodb`**
 * 前端：**`react.js` `antd` `axios`**
 
+## 管理员账户
+账户密码都是admin
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
