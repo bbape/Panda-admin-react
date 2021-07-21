@@ -1,3 +1,8 @@
+## 技术栈
+
+* 后端：**`node.js` `express` `mongodb`**
+* 前端：**`react.js` `antd` `axios`**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
